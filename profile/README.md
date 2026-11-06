@@ -57,4 +57,4 @@ Utilisez le bouton **Report a vulnerability** de l'onglet Security du dépôt co
 
 ---
 
-Par [Dimitri Lefebvre](https://www.linkedin.com/in/dimlefebvre60) · Je prends aussi des missions : applications sur mesure, audit de code généré par IA, formation au vibe coding maîtrisé.
+Par [Dimitri Lefebvre](https://www.linkedin.com/in/dim-lefebvre60) · Je prends aussi des missions : applications sur mesure, audit de code généré par IA, formation au vibe coding maîtrisé.
